@@ -1,0 +1,791 @@
+[{"artist(s)":["Drake","Wiz Kid","Kyla"],"song name: ":"One Dance","preview song: ":"https://p.scdn.co/mp3-preview/98f60b086bb1da2ca2e4c217331b8c8cc801358d","album: ":"Views"},{"artist(s)":["Jason Mraz"],"song name: ":"I'm Yours","preview song: ":"https://p.scdn.co/mp3-preview/c58f1bc9160754337b858a4eb824a6ac2321041d","album: ":"We Sing. We Dance. We Steal Things."},{"artist(s)":["WALK THE MOON"],"song name: ":"Shut Up and Dance","preview song: ":"https://p.scdn.co/mp3-preview/50171ad2206e8f6b2ecad2266d353472427c358e","album: ":"TALKING IS HARD"},{"artist(s)":["Earth, Wind & Fire"],"song name: ":"September","preview song: ":"https://p.scdn.co/mp3-preview/5fce831e28eb2ae69f1c44e340c2368c228e0764","album: ":"The Eternal Dance"},{"artist(s)":["Whitney Houston"],"song name: ":"I Wanna Dance with Somebody (Who Loves Me)","preview song: ":"https://p.scdn.co/mp3-preview/3bb02cefe0aca5129bb4be624a3f0dba6f31409f","album: ":"Whitney"},{"artist(s)":["Jason Mraz","Colbie Caillat"],"song name: ":"Lucky","preview song: ":"https://p.scdn.co/mp3-preview/6d11c0ffe71a18048e675c42c184efad8742f9fc","album: ":"We Sing. We Dance. We Steal Things."},{"artist(s)":["Drake","Wiz Kid","Kyla"],"song name: ":"One Dance","preview song: ":"https://p.scdn.co/mp3-preview/d82ff4a66916402f82e01ba3e30c1de289d047b1","album: ":"Views"},{"artist(s)":["Drew Baldridge"],"song name: ":"Rebound","preview song: ":"https://p.scdn.co/mp3-preview/ea2dd47a1edb501c5181b1c5ca02cafc472a9a73","album: ":"Dance With Ya - EP"},{"artist(s)":["Milky Chance"],"song name: ":"Stolen Dance","preview song: ":"https://p.scdn.co/mp3-preview/fbb38f55bae38493d5a74f51a69f297c2f8a7d10","album: ":"Stolen Dance"},{"artist(s)":["Milky Chance"],"song name: ":"Stolen Dance","preview song: ":"https://p.scdn.co/mp3-preview/884d858cd4f9e7e849c29027aaf907c512b50053","album: ":"Sadnecessary"},{"artist(s)":["Fall Out Boy"],"song name: ":"Dance, Dance","preview song: ":"https://p.scdn.co/mp3-preview/51dffeaf86262101b3d79b7586b6db24c60e70f6","album: ":"From Under The Cork Tree"},{"artist(s)":["Beyoncé"],"song name: ":"Dance for You","preview song: ":"https://p.scdn.co/mp3-preview/69d99b19f6557ff8cf42b354316ae883d7900347","album: ":"4"},{"artist(s)":["Juicy J","Lil Wayne","2 Chainz"],"song name: ":"Bandz A Make Her Dance","preview song: ":"https://p.scdn.co/mp3-preview/86403b0c1ed41fee7126fe68c8986f36ec5d2035","album: ":"Stay Trippy"},{"artist(s)":["Lady Gaga","Colby O'Donis"],"song name: ":"Just Dance","preview song: ":"https://p.scdn.co/mp3-preview/bd95208b100acfb09e852e85fab77d6cf41c53d7","album: ":"The Fame Monster (Deluxe)"},{"artist(s)":["Jennifer Lopez","Pitbull"],"song name: ":"Dance Again","preview song: ":"https://p.scdn.co/mp3-preview/2d288b4a7117b800a3bf561a3686f39fbe17a40a","album: ":"Dance Again...The Hits"},{"artist(s)":["Big Sean","Nicki Minaj"],"song name: ":"Dance (A$$) Remix","preview song: ":"https://p.scdn.co/mp3-preview/a62c11fcb7426f3899deaf88c034e575a509defd","album: ":"Dance (A$$) Remix"},{"artist(s)":["Alex Aiono"],"song name: ":"One Dance/Hasta El Amanecer - Mashup","preview song: ":"https://p.scdn.co/mp3-preview/15b2376b5f018e917c717b2d49ed6184978458a0","album: ":"One Dance/Hasta El Amanecer (Mashup)"},{"artist(s)":["Lee Ann Womack"],"song name: ":"I Hope You Dance","preview song: ":"https://p.scdn.co/mp3-preview/af02b1bb7d643c35ca7f2a1dc10fed0b8d4df1bc","album: ":"I Hope You Dance"},{"artist(s)":["Justice"],"song name: ":"D.A.N.C.E.","preview song: ":"https://p.scdn.co/mp3-preview/61c6fbfdbee10248a1ba5420c92f282658aac703","album: ":"Cross"},{"artist(s)":["Twin Bandit","Joshua Hyslop"],"song name: ":"Stolen Dance","preview song: ":"https://p.scdn.co/mp3-preview/1818ced4f743cf8a7048fafc82080e47101b7325","album: ":"Stolen Dance"}]
+
+[{"created at: ":"Thu Sep 22 21:57:03 +0000 2016","Tweets: ":"Yes, very 'loosely'. But a fantastic show https://t.co/ljfOz3L4l7"},{"created at: ":"Thu Sep 22 12:43:12 +0000 2016","Tweets: ":"RT @HackUCF: Looking to go into infosec but dont know what to expect? Join us on Fri 9/23 in HEC-125 for an all-star panel of local infosec…"},{"created at: ":"Sun Sep 18 03:06:21 +0000 2016","Tweets: ":"RT @mongoosejs: Mongoose now has an actually working public slack channel courtesy of @niftylettuce Join us at https://t.co/u5RdFtPKl5"},{"created at: ":"Sat Sep 17 12:38:20 +0000 2016","Tweets: ":"RT @SwiftOnSecurity: Microsoft still selling OS's vulnerable to .js files reminds me of someone trying to fuck you as your house is burning…"},{"created at: ":"Sat Sep 17 03:36:42 +0000 2016","Tweets: ":"RT @ACrawfordWESH: Pulse memorial, now nearly empty. In all, History Center has nearly 5,000 items from different memorials in Orlando. htt…"},{"created at: ":"Sat Sep 17 03:27:41 +0000 2016","Tweets: ":"RT @symantec: The Symantec Cyber Career Connection program is diversifying the #cybersecurity field. More: https://t.co/om1EwSL9UI https://…"},{"created at: ":"Thu Sep 15 17:39:33 +0000 2016","Tweets: ":"Excited to see the launch of Google's Angular 2 https://t.co/4Ov67AKOEY via @techcrunch"},{"created at: ":"Thu Sep 15 01:26:33 +0000 2016","Tweets: ":"Oh, I already did --save, well it doesn't hurt to do it one more time. :P"},{"created at: ":"Thu Sep 15 00:44:27 +0000 2016","Tweets: ":"If you're thinking about Digital Ocean, get $10 off and I get rewarded too. https://t.co/vK6e5iAE4v"},{"created at: ":"Wed Sep 14 01:51:49 +0000 2016","Tweets: ":"RT @todayininfosec: 1998: The group Hacking for Girlies compromised The New York Times website, posting a diatribe supporting imprisoned ha…"},{"created at: ":"Wed Sep 14 01:40:51 +0000 2016","Tweets: ":"Wrote a quick little rock paper python game for the terminal and got both kids into playing it. Yay!"},{"created at: ":"Wed Sep 14 00:08:57 +0000 2016","Tweets: ":"RT @todayininfosec: 2002: The Slapper worm was discovered in Eastern Europe. It spread on Linux systems by exploiting an OpenSSL vulnerabil…"},{"created at: ":"Sat Sep 10 05:13:43 +0000 2016","Tweets: ":"Sick as a dog, but pulling an all nighter to get my project finished. Wish me luck!"},{"created at: ":"Thu Sep 08 16:00:31 +0000 2016","Tweets: ":"Not the time to get a head cold. Stop it. Must code faster...."},{"created at: ":"Thu Sep 08 04:22:58 +0000 2016","Tweets: ":"I'm a bit of an Apple fan... https://t.co/nlbuf60TXZ"},{"created at: ":"Thu Sep 08 04:16:20 +0000 2016","Tweets: ":"Coding into the night with lots of coffee and Pandora. It's final project time"},{"created at: ":"Tue Sep 06 03:52:46 +0000 2016","Tweets: ":"I'm just going to bookmark the stackoverflow article on exiting the VIM editor. How many times have I googled how to exit, lol. FYI, it's :q"},{"created at: ":"Sat Sep 03 02:59:12 +0000 2016","Tweets: ":"This was a quick one, maybe I just wanted a badge. I'm learning how to push it with Try Git!  https://t.co/KjLD0Szxoa via @codeschool"},{"created at: ":"Wed Aug 31 23:03:57 +0000 2016","Tweets: ":"You need @trello! It's like sticky notes on steroids. (And it's free!) https://t.co/Qw7OLZ38WU"},{"created at: ":"Mon Aug 29 05:43:03 +0000 2016","Tweets: ":"RT @johnrampton: https://t.co/khIxcoFWxy"}]
+
+[{"Title: ":"While You Were Sleeping","Year: ":"1995","Rated: ":"PG","IMDB Rating: ":"6.7","Country: ":"USA","Language: ":"English","Plot: ":"A ticket-collecting romantic pretends to be engaged to an unconscious man but can't fool his brother.","Actors: ":"Sandra Bullock, Bill Pullman, Peter Gallagher, Peter Boyle","Rotten Tomatoes Rating: ":"6.5","Rotton Tomatoes URL: ":"http://www.rottentomatoes.com/m/while_you_were_sleeping/"}]
+
+"spotify-this-song,\"I Want it That Way\"\n"
+
+[{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6","album: ":"The Hits--Chapter One"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c","album: ":"Millennium"},{"artist(s)":["Boyce Avenue"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3","album: ":"New Acoustic Sessions, Vol. 3"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f","album: ":"90 Sweet 90s Hits!"},{"artist(s)":["Glee Cast"],"song name: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","preview song: ":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0","album: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c","album: ":"The Essential Backstreet Boys"},{"artist(s)":["\"Weird Al\" Yankovic"],"song name: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","preview song: ":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef","album: ":"The Essential Weird Al Yankovic"},{"artist(s)":["FROIDZ"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67","album: ":"I Want It That Way"},{"artist(s)":["Anthem Lights"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5","album: ":"Covers Part IV"},{"artist(s)":["Scott Bradlee's Postmodern Jukebox","Shoshana Bean"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3","album: ":"PMJ Is For Lovers: The Love Song Collection"},{"artist(s)":["Brittany Howard","Jim James"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7","album: ":"I Want It That Way"},{"artist(s)":["Dynamite Boy"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e028b2a49335c72305fe789185bf074b420ffdf4","album: ":"Punk Goes Pop"},{"artist(s)":["Scott Bradlee's Postmodern Jukebox","Shoshana Bean"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3","album: ":"Selfies on Kodachrome"},{"artist(s)":["\"Weird Al\" Yankovic"],"song name: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","preview song: ":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c","album: ":"Poodle Hat"},{"artist(s)":["Landon Austin & Julia Sheer"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c","album: ":"I Want It That Way"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794","album: ":"NKOTBSB"},{"artist(s)":["Steel Panther"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f","album: ":"I Want It That Way"},{"artist(s)":["Patent Pending"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d","album: ":"Spring Break '99"},{"artist(s)":["Garrett Gardner"],"song name: ":"I Want It That Way - The Voice Performance","preview song: ":"https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185","album: ":"I Want It That Way (The Voice Performance)"},{"artist(s)":["Kidz Bop Kids"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b4887d708386ad61a51b646e96c0494aa35b432e","album: ":"Kidz Bop"}]
+
+[{"created at: ":"Thu Sep 22 21:57:03 +0000 2016","Tweets: ":"Yes, very 'loosely'. But a fantastic show https://t.co/ljfOz3L4l7"},{"created at: ":"Thu Sep 22 12:43:12 +0000 2016","Tweets: ":"RT @HackUCF: Looking to go into infosec but dont know what to expect? Join us on Fri 9/23 in HEC-125 for an all-star panel of local infosec…"},{"created at: ":"Sun Sep 18 03:06:21 +0000 2016","Tweets: ":"RT @mongoosejs: Mongoose now has an actually working public slack channel courtesy of @niftylettuce Join us at https://t.co/u5RdFtPKl5"},{"created at: ":"Sat Sep 17 12:38:20 +0000 2016","Tweets: ":"RT @SwiftOnSecurity: Microsoft still selling OS's vulnerable to .js files reminds me of someone trying to fuck you as your house is burning…"},{"created at: ":"Sat Sep 17 03:36:42 +0000 2016","Tweets: ":"RT @ACrawfordWESH: Pulse memorial, now nearly empty. In all, History Center has nearly 5,000 items from different memorials in Orlando. htt…"},{"created at: ":"Sat Sep 17 03:27:41 +0000 2016","Tweets: ":"RT @symantec: The Symantec Cyber Career Connection program is diversifying the #cybersecurity field. More: https://t.co/om1EwSL9UI https://…"},{"created at: ":"Thu Sep 15 17:39:33 +0000 2016","Tweets: ":"Excited to see the launch of Google's Angular 2 https://t.co/4Ov67AKOEY via @techcrunch"},{"created at: ":"Thu Sep 15 01:26:33 +0000 2016","Tweets: ":"Oh, I already did --save, well it doesn't hurt to do it one more time. :P"},{"created at: ":"Thu Sep 15 00:44:27 +0000 2016","Tweets: ":"If you're thinking about Digital Ocean, get $10 off and I get rewarded too. https://t.co/vK6e5iAE4v"},{"created at: ":"Wed Sep 14 01:51:49 +0000 2016","Tweets: ":"RT @todayininfosec: 1998: The group Hacking for Girlies compromised The New York Times website, posting a diatribe supporting imprisoned ha…"}]
+
+[{"artist(s)":["Twenty One Pilots"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/cd5173acb956b9f442c67bafd2ec637a898ab172","album: ":"Heathens"},{"artist(s)":["Twenty One Pilots"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/d634df308de14632d694e73425d0c4c2ee5d0062","album: ":"Suicide Squad: The Album"},{"artist(s)":["Twenty One Pilots"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/cd5173acb956b9f442c67bafd2ec637a898ab172","album: ":"Suicide Squad: The Album"},{"artist(s)":["DJ Trump"],"song name: ":"Heathens - Remix","preview song: ":"https://p.scdn.co/mp3-preview/4017e5cd321cc487d3bd6fa8647e31e116142ae9","album: ":"Heathens (Remix)"},{"artist(s)":["Boyce Avenue"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/d0bedbd0917cd0a9c04b0785dfa799ab5d3ec0d2","album: ":"Cover Sessions, Vol. 3"},{"artist(s)":["Prismo"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/ddbd394eb75106884896fc02ad24db5913a91969","album: ":"Heathens"},{"artist(s)":["Heavy Young Heathens"],"song name: ":"Sha La La La La","preview song: ":"https://p.scdn.co/mp3-preview/773716f9064aad7e05bbc560cad1393151df9461","album: ":"Heavy Young Heathens"},{"artist(s)":["The Band Of Heathens"],"song name: ":"Hurricane","preview song: ":"https://p.scdn.co/mp3-preview/1e7da5a7f4205f0d7891cc38d004f4d656a990a9","album: ":"Top Hat Crown & The Clapmaster 's Son"},{"artist(s)":["Noah Guthrie"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/8519e5b17cb71a0b13840caaebf51ab6bfab294f","album: ":"Heathens"},{"artist(s)":["Shaun Reynolds","Matt DeFreitas"],"song name: ":"Heathens / Ride (Mash-Up)","preview song: ":"https://p.scdn.co/mp3-preview/a3778845ac41cb5b6c6a0acfa0f186453e12997e","album: ":"Heathens / Ride (Mash-Up)"},{"artist(s)":["Vitamin String Quartet"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/236ec643a5acd9f8e1f5add9e83f8146303e51f5","album: ":"VSQ Performs the Hits of 2016 Vol. 2"},{"artist(s)":["The Band Of Heathens"],"song name: ":"L.A. County Blues","preview song: ":"https://p.scdn.co/mp3-preview/c1893d5cdf33fb8ece1dcdd03099271e38ae7d43","album: ":"One Foot In The Ether"},{"artist(s)":["The Band Of Heathens"],"song name: ":"Look at Miss Ohio","preview song: ":"https://p.scdn.co/mp3-preview/dedd245687286eb72529ae58bf6077823f4ceae6","album: ":"One Foot In The Ether"},{"artist(s)":["Living in Fiction"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/78690b8efeda13c46f54c756b8484e91b31cfd5d","album: ":"Heathens"},{"artist(s)":["Boyce Avenue"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/d0bedbd0917cd0a9c04b0785dfa799ab5d3ec0d2","album: ":"Cover Sessions, Vol. 3"},{"artist(s)":["Heathens"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/dfcc63474456378e5b4ead5ee776f432b1428eb3","album: ":"Heathens"},{"artist(s)":["Social Repose"],"song name: ":"Heathens (A Cappella)","preview song: ":"https://p.scdn.co/mp3-preview/186f917d14ccca7c0892be7f17ec887f20fe6f35","album: ":"Heathens (A Cappella)"},{"artist(s)":["The Band Of Heathens"],"song name: ":"Jackson Station","preview song: ":"https://p.scdn.co/mp3-preview/c2296dfb0d216c230f406521ec44fc96571b7907","album: ":"The Band Of Heathens"},{"artist(s)":["TGA-NC"],"song name: ":"NightCore-Heathens","preview song: ":"https://p.scdn.co/mp3-preview/fc16acbbfe7c058c213bfc298b4b0ac0d8f554c3","album: ":"NightCore-Heathens"},{"artist(s)":["Drive-By Truckers"],"song name: ":"Heathens","preview song: ":"https://p.scdn.co/mp3-preview/f047c98cee197c24605197094fa959dce6764c7d","album: ":"Decoration Day"}]
+
+[{"Title: ":"Cats","Year: ":"1998","Rated: ":"N/A","IMDB Rating: ":"7.4","Country: ":"UK, USA","Language: ":"English","Plot: ":"Andrew Lloyd Webber's CATS, the most famous musical of all time, first exploded onto the West End stage in 1981. 'Memory', one of its many classic songs, became an instant worldwide hit. Since then CATS has smashed records and conquered the world. Using the latest technology, all the excitement, thrill, romance and intimacy of this theatrical legend has been captured on screen. Breathtaking visuals and full digital sound (that has been completely re-recorded with a seventy piece orchestra) will leave you deep into the mysterious world of CATS as you've never seen it before - more intoxicating and magical than you could possibly imagine. With a star cast including Elaine Paige and Sir John Mills.","Actors: ":"James Barron, Jo Bingham, Jacob Brent, Kaye Brown","Rotten Tomatoes Rating: ":"N/A","Rotton Tomatoes URL: ":"N/A"}]
+
+"spotify-this-song,\"I Want it That Way\"\n"
+
+[{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6","album: ":"The Hits--Chapter One"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c","album: ":"Millennium"},{"artist(s)":["Boyce Avenue"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3","album: ":"New Acoustic Sessions, Vol. 3"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f","album: ":"90 Sweet 90s Hits!"},{"artist(s)":["Glee Cast"],"song name: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","preview song: ":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0","album: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c","album: ":"The Essential Backstreet Boys"},{"artist(s)":["\"Weird Al\" Yankovic"],"song name: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","preview song: ":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef","album: ":"The Essential Weird Al Yankovic"},{"artist(s)":["FROIDZ"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67","album: ":"I Want It That Way"},{"artist(s)":["Anthem Lights"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5","album: ":"Covers Part IV"},{"artist(s)":["Scott Bradlee's Postmodern Jukebox","Shoshana Bean"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3","album: ":"PMJ Is For Lovers: The Love Song Collection"},{"artist(s)":["Brittany Howard","Jim James"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7","album: ":"I Want It That Way"},{"artist(s)":["Dynamite Boy"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e028b2a49335c72305fe789185bf074b420ffdf4","album: ":"Punk Goes Pop"},{"artist(s)":["Scott Bradlee's Postmodern Jukebox","Shoshana Bean"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3","album: ":"Selfies on Kodachrome"},{"artist(s)":["\"Weird Al\" Yankovic"],"song name: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","preview song: ":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c","album: ":"Poodle Hat"},{"artist(s)":["Landon Austin & Julia Sheer"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c","album: ":"I Want It That Way"},{"artist(s)":["Backstreet Boys"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794","album: ":"NKOTBSB"},{"artist(s)":["Steel Panther"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f","album: ":"I Want It That Way"},{"artist(s)":["Patent Pending"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d","album: ":"Spring Break '99"},{"artist(s)":["Garrett Gardner"],"song name: ":"I Want It That Way - The Voice Performance","preview song: ":"https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185","album: ":"I Want It That Way (The Voice Performance)"},{"artist(s)":["Kidz Bop Kids"],"song name: ":"I Want It That Way","preview song: ":"https://p.scdn.co/mp3-preview/b4887d708386ad61a51b646e96c0494aa35b432e","album: ":"Kidz Bop"}]
+
+[{"created at: ":"Tue Sep 27 23:46:58 +0000 2016","Tweets: ":"When your tester improves your code ❤️ https://t.co/wd3CgzM5HE"},{"created at: ":"Tue Sep 27 20:04:10 +0000 2016","Tweets: ":"RT @SwiftOnSecurity: https://t.co/KqXzpdlcCJ"},{"created at: ":"Tue Sep 27 19:55:10 +0000 2016","Tweets: ":"RT @SwiftOnSecurity: Turns out it was just fat nerds not the Russians https://t.co/HL1QhLsGHL"},{"created at: ":"Tue Sep 27 09:42:44 +0000 2016","Tweets: ":"RT @jeremiahg: When the candidates say, “We have to be tough on cyber,” I can’t help but be reminded of Aaron Swartz."},{"created at: ":"Tue Sep 27 05:33:01 +0000 2016","Tweets: ":"Dubstep and coding, oh and it's like 1:30am. Need more coffee"},{"created at: ":"Mon Sep 26 19:52:43 +0000 2016","Tweets: ":"@codeschool @MrTruthDev @github Awesome idea, can I add Icelandic (is) translation?"},{"created at: ":"Mon Sep 26 00:36:57 +0000 2016","Tweets: ":"Only 3 more days until I finish with UCF's Coding Boot Camp, I'm so proud of the progress I've made!"},{"created at: ":"Sat Sep 24 16:26:54 +0000 2016","Tweets: ":"@sassyscoopics Happy birthday to you. There are balloons on your Twitter. Happy birthday to you 🎈🎈🎈🎉🎉"},{"created at: ":"Fri Sep 23 18:43:21 +0000 2016","Tweets: ":"I encourage my kids to explore the computer, last encounter was a POST beep, we found out it was the RAM and I let my 10 y/o fix it #techkid"},{"created at: ":"Thu Sep 22 23:42:27 +0000 2016","Tweets: ":"I think I need a second screen (or even a third)"}]
+
+[{"Title: ":"Mr. Smith Goes to Washington","Year: ":"1939","Rated: ":"NOT RATED","IMDB Rating: ":"8.2","Country: ":"USA","Language: ":"English","Plot: ":"Naive and idealistic Jefferson Smith, leader of the Boy Rangers, is appointed on a lark by the spineless governor of his state. He is reunited with the state's senior senator--presidential hopeful and childhood hero, Senator Joseph Paine. In Washington, however, Smith discovers many of the shortcomings of the political process as his earnest goal of a national boys' camp leads to a conflict with the state political boss, Jim Taylor. Taylor first tries to corrupt Smith and then later attempts to destroy Smith through a scandal.","Actors: ":"Jean Arthur, James Stewart, Claude Rains, Edward Arnold","Rotten Tomatoes Rating: ":"7.4","Rotton Tomatoes URL: ":"http://www.rottentomatoes.com/m/can_mr_smith_get_to_washington_anymore/"}]
+
+[{"created at: ":"Wed Jan 17 18:44:00 +0000 2018","Tweets: ":"It's a snow day (Chattanooga version) so I'm hacking away in style. 👩‍💻 https://t.co/i8vSVzpNQj"},{"created at: ":"Fri Jan 05 15:03:31 +0000 2018","Tweets: ":"I'll be giving a Lightning Talk on Accessibility in Web apps at the ChaDev Meetup. Please join me and watch my talk… https://t.co/EQma5KzBzy"},{"created at: ":"Sat Dec 30 13:23:14 +0000 2017","Tweets: ":"RT @JonLemire: SAN JUAN, Puerto Rico (AP) — Puerto Rico authorities say nearly half of electricity customers still lack power more than thr…"},{"created at: ":"Sat Dec 30 13:20:42 +0000 2017","Tweets: ":"Finally installed Debian on my windows machine. I'm super happy with it."},{"created at: ":"Tue Nov 21 14:28:16 +0000 2017","Tweets: ":"Thanksgiving, the time of year you know recruiters are still alive because of all the Thanksgiving emails they send."},{"created at: ":"Fri Nov 17 16:31:00 +0000 2017","Tweets: ":"RT @tarah: You may not think that professional certifications prove anything about your smarts &amp; they're total BS.\n\nBut if your employer wi…"},{"created at: ":"Fri Nov 03 20:32:13 +0000 2017","Tweets: ":"RT @Snowden: Never underestimate the power of a worker with a conscience. https://t.co/Tjmu3qX93d"},{"created at: ":"Thu Oct 26 16:37:35 +0000 2017","Tweets: ":"Cool Chadev talk on mechanical keyboards! https://t.co/7EN6SepTkU"},{"created at: ":"Mon Oct 16 00:50:38 +0000 2017","Tweets: ":"RT @ThePracticalDev: Oh Ruby you monster https://t.co/8D2Zw6wlHJ"},{"created at: ":"Wed Oct 11 00:42:55 +0000 2017","Tweets: ":"@tarah @kamilah @Spacekatgal @k3r3n3 @kcunning @KTothSmith @thisgirlangie Yay! I would love to win it ❤👩‍💻👩‍🔧"}]
+
+"spotify-this-song,\"I Want it That Way\"\n"
+
+"spotify-this-song,\"I Want it That Way\"\n"
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'BOHEMIAN RHAPSODY'
+
+              Album Name: A Night At The Opera (Deluxe Remastered Version)
+
+              Artist Name: Queen
+
+              URL: https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'HAVANA'
+
+              Album Name: Camila
+
+              Artist Name: Camila Cabello
+
+              URL: https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'SURRENDER'
+
+              Album Name: Heaven Tonight
+
+              Artist Name: Cheap Trick
+
+              URL: https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'WHAT'S MY AGE AGAIN'
+
+              Album Name: Enema Of The State
+
+              Artist Name: blink-182
+
+              URL: https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38
+
+
+
+
+
+[{"created at: ":"Wed Jan 17 18:44:00 +0000 2018","Tweets: ":"It's a snow day (Chattanooga version) so I'm hacking away in style. 👩‍💻 https://t.co/i8vSVzpNQj"},{"created at: ":"Fri Jan 05 15:03:31 +0000 2018","Tweets: ":"I'll be giving a Lightning Talk on Accessibility in Web apps at the ChaDev Meetup. Please join me and watch my talk… https://t.co/EQma5KzBzy"},{"created at: ":"Sat Dec 30 13:23:14 +0000 2017","Tweets: ":"RT @JonLemire: SAN JUAN, Puerto Rico (AP) — Puerto Rico authorities say nearly half of electricity customers still lack power more than thr…"},{"created at: ":"Sat Dec 30 13:20:42 +0000 2017","Tweets: ":"Finally installed Debian on my windows machine. I'm super happy with it."},{"created at: ":"Tue Nov 21 14:28:16 +0000 2017","Tweets: ":"Thanksgiving, the time of year you know recruiters are still alive because of all the Thanksgiving emails they send."},{"created at: ":"Fri Nov 17 16:31:00 +0000 2017","Tweets: ":"RT @tarah: You may not think that professional certifications prove anything about your smarts &amp; they're total BS.\n\nBut if your employer wi…"},{"created at: ":"Fri Nov 03 20:32:13 +0000 2017","Tweets: ":"RT @Snowden: Never underestimate the power of a worker with a conscience. https://t.co/Tjmu3qX93d"},{"created at: ":"Thu Oct 26 16:37:35 +0000 2017","Tweets: ":"Cool Chadev talk on mechanical keyboards! https://t.co/7EN6SepTkU"},{"created at: ":"Mon Oct 16 00:50:38 +0000 2017","Tweets: ":"RT @ThePracticalDev: Oh Ruby you monster https://t.co/8D2Zw6wlHJ"},{"created at: ":"Wed Oct 11 00:42:55 +0000 2017","Tweets: ":"@tarah @kamilah @Spacekatgal @k3r3n3 @kcunning @KTothSmith @thisgirlangie Yay! I would love to win it ❤👩‍💻👩‍🔧"}]
+
+[{"Title: ":"Heidi","Year: ":"1937","Rated: ":"APPROVED","IMDB Rating: ":"7.3","Country: ":"USA","Language: ":"English","Plot: ":"A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.","Actors: ":"Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley"}]
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'BELIEVE'
+
+              Album Name: Believe
+
+              Artist Name: Cher
+
+              URL: https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth
+
+
+
+
+" ===================== LIRI PROVIDED THIS DATA FOR YOU...====================\n\n\n                            Title: Heidi\n\n                            Year: 1937\n\n                            Rated: APPROVED\n\n                            IMDB Rating: 7.3\n\n                            Country: USA\n\n                            Language: English\n\n                            Plot: A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.\n\n                            Actors: Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley\n\n                            Rotten Tomatoes Rating: undefined\n\n                            Rotton Tomatoes URL: undefined"
+
+" ===================== LIRI PROVIDED THIS DATA FOR YOU...====================\n\n\n              Title: Heidi\n\n              Year: 1937\n\n              Rated: APPROVED\n\n                            IMDB Rating: 7.3\n\n                            Country: USA\n\n                            Language: English\n\n                            Plot: A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.\n\n                            Actors: Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley\n\n                            Rotten Tomatoes Rating: undefined\n\n                            Rotton Tomatoes URL: undefined"
+
+" ===================== LIRI PROVIDED THIS DATA FOR YOU...====================\n\n\n              Title: Heidi\n\n              Year: 1937\n\n              Rated: APPROVED\n\n              IMDB Rating: 7.3\n\n              Country: USA\n\n              Language: English\n\n              Plot: A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.\n\n              Actors: Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley\n\n              Rotten Tomatoes Rating: undefined\n\n              Rotton Tomatoes URL: undefined"
+
+"\n\n              ================= LIRI FOUND THIS FOR YOU...==================\n\n              Title: Heidi\n\n              Year: 1937\n\n              Rated: APPROVED\n\n              IMDB Rating: 7.3\n\n              Country: USA\n\n              Language: English\n\n              Plot: A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.\n\n              Actors: Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley\n\n              Rotten Tomatoes Rating: undefined\n\n              Rotton Tomatoes URL: undefined\n\n\n"
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: Heidi
+
+              Year: 1937
+
+              Rated: APPROVED
+
+              IMDB Rating: 7.3
+
+              Country: USA
+
+              Language: English
+
+              Plot: A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.
+
+              Actors: Shirley Temple, Jean Hersholt, Arthur Treacher, Helen Westley
+
+              Rotten Tomatoes Rating: undefined
+
+              Rotton Tomatoes URL: undefined
+
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+[{"created at: ":"Wed Jan 17 18:44:00 +0000 2018","Tweets: ":"It's a snow day (Chattanooga version) so I'm hacking away in style. 👩‍💻 https://t.co/i8vSVzpNQj"},{"created at: ":"Fri Jan 05 15:03:31 +0000 2018","Tweets: ":"I'll be giving a Lightning Talk on Accessibility in Web apps at the ChaDev Meetup. Please join me and watch my talk… https://t.co/EQma5KzBzy"},{"created at: ":"Sat Dec 30 13:23:14 +0000 2017","Tweets: ":"RT @JonLemire: SAN JUAN, Puerto Rico (AP) — Puerto Rico authorities say nearly half of electricity customers still lack power more than thr…"},{"created at: ":"Sat Dec 30 13:20:42 +0000 2017","Tweets: ":"Finally installed Debian on my windows machine. I'm super happy with it."},{"created at: ":"Tue Nov 21 14:28:16 +0000 2017","Tweets: ":"Thanksgiving, the time of year you know recruiters are still alive because of all the Thanksgiving emails they send."},{"created at: ":"Fri Nov 17 16:31:00 +0000 2017","Tweets: ":"RT @tarah: You may not think that professional certifications prove anything about your smarts &amp; they're total BS.\n\nBut if your employer wi…"},{"created at: ":"Fri Nov 03 20:32:13 +0000 2017","Tweets: ":"RT @Snowden: Never underestimate the power of a worker with a conscience. https://t.co/Tjmu3qX93d"},{"created at: ":"Thu Oct 26 16:37:35 +0000 2017","Tweets: ":"Cool Chadev talk on mechanical keyboards! https://t.co/7EN6SepTkU"},{"created at: ":"Mon Oct 16 00:50:38 +0000 2017","Tweets: ":"RT @ThePracticalDev: Oh Ruby you monster https://t.co/8D2Zw6wlHJ"},{"created at: ":"Wed Oct 11 00:42:55 +0000 2017","Tweets: ":"@tarah @kamilah @Spacekatgal @k3r3n3 @kcunning @KTothSmith @thisgirlangie Yay! I would love to win it ❤👩‍💻👩‍🔧"}][object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+"\n\n              created at: undefined\n\n              Tweets: undefined"
+
+"\n\n              created at: undefined\n\n              Tweets: undefined"
+
+"\n\n              created at: undefined\n\n              Tweets: undefined"
+
+"\n\n              created at: undefined\n\n              Tweets: undefined"
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Song Name: 'THUNDER'
+
+              Album Name: Evolve
+
+              Artist Name: Imagine Dragons
+
+              URL: https://open.spotify.com/album/2iU0cUGlqNhNAPqoY54fMC
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: Home Alone
+
+              Year: 1990
+
+              Rated: PG
+
+              IMDB Rating: 7.5
+
+              Country: USA
+
+              Language: English
+
+              Plot: An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.
+
+              Actors: Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard
+
+              Rotten Tomatoes Rating: undefined
+
+              Rotton Tomatoes URL: undefined
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: undefined
+
+              Year: undefined
+
+              Rated: undefined
+
+              IMDB Rating: undefined
+
+              Country: undefined
+
+              Language: undefined
+
+              Plot: undefined
+
+              Actors: undefined
+
+              Rotten Tomatoes Rating: undefined
+
+              Rotton Tomatoes URL: undefined
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: undefined
+
+              Year: undefined
+
+              Rated: undefined
+
+              IMDB Rating: undefined
+
+              Country: undefined
+
+              Language: undefined
+
+              Plot: undefined
+
+              Actors: undefined
+
+              Rotten Tomatoes Rating: undefined
+
+              Rotton Tomatoes URL: undefined
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: Home Alone 2
+
+              Year: 2012
+
+              Rated: N/A
+
+              IMDB Rating: 5.1
+
+              Country: USA
+
+              Language: English
+
+              Plot: A sovereign woman is lost in New York.
+
+              Actors: Jessica Carlsen, Mark Anthony Hackett
+
+              Rotten Tomatoes Rating: undefined
+
+              Rotton Tomatoes URL: undefined
+
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: Blade Runner
+
+              Year: 1982
+
+              Rated: R
+
+              IMDB Rating: 8.2
+
+              Country: USA, Hong Kong
+
+              Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+
+              Plot: A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+
+              Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+
+              IMDb Rating: 8.2
+
+
+
+
+[{"created at: ":"Tue Jul 10 19:55:10 +0000 2018","Tweets: ":"RT @vuejsdevelopers: Create &amp; Publish Web Components With #VueJS CLI 3 by @anthonygore https://t.co/ZSsBh0oyzp"},{"created at: ":"Wed Jan 17 18:44:00 +0000 2018","Tweets: ":"It's a snow day (Chattanooga version) so I'm hacking away in style. 👩‍💻 https://t.co/i8vSVzpNQj"},{"created at: ":"Fri Jan 05 15:03:31 +0000 2018","Tweets: ":"I'll be giving a Lightning Talk on Accessibility in Web apps at the ChaDev Meetup. Please join me and watch my talk… https://t.co/EQma5KzBzy"},{"created at: ":"Sat Dec 30 13:23:14 +0000 2017","Tweets: ":"RT @JonLemire: SAN JUAN, Puerto Rico (AP) — Puerto Rico authorities say nearly half of electricity customers still lack power more than thr…"},{"created at: ":"Sat Dec 30 13:20:42 +0000 2017","Tweets: ":"Finally installed Debian on my windows machine. I'm super happy with it."},{"created at: ":"Tue Nov 21 14:28:16 +0000 2017","Tweets: ":"Thanksgiving, the time of year you know recruiters are still alive because of all the Thanksgiving emails they send."},{"created at: ":"Fri Nov 17 16:31:00 +0000 2017","Tweets: ":"RT @tarah: You may not think that professional certifications prove anything about your smarts &amp; they're total BS.\n\nBut if your employer wi…"},{"created at: ":"Fri Nov 03 20:32:13 +0000 2017","Tweets: ":"RT @Snowden: Never underestimate the power of a worker with a conscience. https://t.co/Tjmu3qX93d"},{"created at: ":"Thu Oct 26 16:37:35 +0000 2017","Tweets: ":"Cool Chadev talk on mechanical keyboards! https://t.co/7EN6SepTkU"},{"created at: ":"Mon Oct 16 00:50:38 +0000 2017","Tweets: ":"RT @ThePracticalDev: Oh Ruby you monster https://t.co/8D2Zw6wlHJ"}]
+
+[{"created at: ":"Tue Jul 10 19:55:10 +0000 2018","Tweets: ":"RT @vuejsdevelopers: Create &amp; Publish Web Components With #VueJS CLI 3 by @anthonygore https://t.co/ZSsBh0oyzp"},{"created at: ":"Wed Jan 17 18:44:00 +0000 2018","Tweets: ":"It's a snow day (Chattanooga version) so I'm hacking away in style. 👩‍💻 https://t.co/i8vSVzpNQj"},{"created at: ":"Fri Jan 05 15:03:31 +0000 2018","Tweets: ":"I'll be giving a Lightning Talk on Accessibility in Web apps at the ChaDev Meetup. Please join me and watch my talk… https://t.co/EQma5KzBzy"},{"created at: ":"Sat Dec 30 13:23:14 +0000 2017","Tweets: ":"RT @JonLemire: SAN JUAN, Puerto Rico (AP) — Puerto Rico authorities say nearly half of electricity customers still lack power more than thr…"},{"created at: ":"Sat Dec 30 13:20:42 +0000 2017","Tweets: ":"Finally installed Debian on my windows machine. I'm super happy with it."},{"created at: ":"Tue Nov 21 14:28:16 +0000 2017","Tweets: ":"Thanksgiving, the time of year you know recruiters are still alive because of all the Thanksgiving emails they send."},{"created at: ":"Fri Nov 17 16:31:00 +0000 2017","Tweets: ":"RT @tarah: You may not think that professional certifications prove anything about your smarts &amp; they're total BS.\n\nBut if your employer wi…"},{"created at: ":"Fri Nov 03 20:32:13 +0000 2017","Tweets: ":"RT @Snowden: Never underestimate the power of a worker with a conscience. https://t.co/Tjmu3qX93d"},{"created at: ":"Thu Oct 26 16:37:35 +0000 2017","Tweets: ":"Cool Chadev talk on mechanical keyboards! https://t.co/7EN6SepTkU"},{"created at: ":"Mon Oct 16 00:50:38 +0000 2017","Tweets: ":"RT @ThePracticalDev: Oh Ruby you monster https://t.co/8D2Zw6wlHJ"}]
+
+[{"created_at":"Tue Jul 10 19:55:10 +0000 2018","id":1016772839863709700,"id_str":"1016772839863709697","text":"RT @vuejsdevelopers: Create &amp; Publish Web Components With #VueJS CLI 3 by @anthonygore https://t.co/ZSsBh0oyzp","truncated":false,"entities":{"hashtags":[{"text":"VueJS","indices":[62,68]}],"symbols":[],"user_mentions":[{"screen_name":"vuejsdevelopers","name":"Vue.js Developers","id":841984178484727800,"id_str":"841984178484727808","indices":[3,19]},{"screen_name":"anthonygore","name":"Anthony Gore","id":13802782,"id_str":"13802782","indices":[78,90]}],"urls":[{"url":"https://t.co/ZSsBh0oyzp","expanded_url":"https://buff.ly/2ucn2bY","display_url":"buff.ly/2ucn2bY","indices":[91,114]}]},"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":14631977,"id_str":"14631977","name":"Edna 👩‍💻","screen_name":"ednas","location":"Chattanooga, TN","description":"Princess Code Warrior. React developer. Cyber security enthusiast. UCF coding boot camp grad and an all around geek. 🇮🇸","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":168,"friends_count":267,"listed_count":15,"created_at":"Fri May 02 22:28:15 +0000 2008","favourites_count":690,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":1135,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"C0DEED","profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png","profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png","profile_background_tile":false,"profile_image_url":"http://pbs.twimg.com/profile_images/788488670563008513/sI331mQw_normal.jpg","profile_image_url_https":"https://pbs.twimg.com/profile_images/788488670563008513/sI331mQw_normal.jpg","profile_banner_url":"https://pbs.twimg.com/profile_banners/14631977/1522953827","profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":false,"following":false,"follow_request_sent":false,"notifications":false,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweeted_status":{"created_at":"Mon Jul 09 19:00:10 +0000 2018","id":1016396611663122400,"id_str":"1016396611663122434","text":"Create &amp; Publish Web Components With #VueJS CLI 3 by @anthonygore https://t.co/ZSsBh0oyzp","truncated":false,"entities":{"hashtags":[{"text":"VueJS","indices":[41,47]}],"symbols":[],"user_mentions":[{"screen_name":"anthonygore","name":"Anthony Gore","id":13802782,"id_str":"13802782","indices":[57,69]}],"urls":[{"url":"https://t.co/ZSsBh0oyzp","expanded_url":"https://buff.ly/2ucn2bY","display_url":"buff.ly/2ucn2bY","indices":[70,93]}]},"source":"<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":841984178484727800,"id_str":"841984178484727808","name":"Vue.js Developers","screen_name":"vuejsdevelopers","location":"Australia","description":"Helping devs up their skill and knowledge of Vue and related tools. Check out our weekly blog and newsletter https://t.co/DxzSjRtW3R. By @anthonygore","url":"https://t.co/OpGohEqogo","entities":{"url":{"urls":[{"url":"https://t.co/OpGohEqogo","expanded_url":"http://vuejsdevelopers.com","display_url":"vuejsdevelopers.com","indices":[0,23]}]},"description":{"urls":[{"url":"https://t.co/DxzSjRtW3R","expanded_url":"https://vuejsdevelopers.com","display_url":"vuejsdevelopers.com","indices":[109,132]}]}},"protected":false,"followers_count":6600,"friends_count":110,"listed_count":147,"created_at":"Wed Mar 15 12:07:26 +0000 2017","favourites_count":969,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":837,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"F5F8FA","profile_background_image_url":null,"profile_background_image_url_https":null,"profile_background_tile":false,"profile_image_url":"http://pbs.twimg.com/profile_images/946256627203584000/S_GHxy5Q_normal.jpg","profile_image_url_https":"https://pbs.twimg.com/profile_images/946256627203584000/S_GHxy5Q_normal.jpg","profile_banner_url":"https://pbs.twimg.com/profile_banners/841984178484727808/1515477067","profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":false,"following":false,"follow_request_sent":false,"notifications":false,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":7,"favorite_count":33,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"},"is_quote_status":false,"retweet_count":7,"favorite_count":0,"favorited":false,"retweeted":false,"possibly_sensitive":false,"lang":"en"}]
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+
+              Title: Moana
+
+              Year: 2016
+
+              Rated: PG
+
+              IMDB Rating: 7.6
+
+              Country: USA
+
+              Language: English
+
+              Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+
+              Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+
+              Tomato Rating: 96%
+
+              IMDb Rating: 7.6
+
+
+
+              ================= LIRI FOUND THIS FOR YOU...==================
+              Title: The Lion King
+              Year: 1994
+              Rated: G
+              IMDB Rating: 8.5
+              Country: USA
+              Language: English, Swahili, Xhosa, Zulu
+              Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+              Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+              Tomato Rating: 93%
+              IMDb Rating: 8.5
+
+
+[{"Created at: ":"Thu Jul 26 03:54:18 +0000 2018","Tweets: ":"@Telliria @SimoneGiertz Thank you 😃 This is exactly what I've been missing in my life! Now I want to build shitty robots too, lol."},{"Created at: ":"Thu Jul 26 03:51:12 +0000 2018","Tweets: ":"@derftIII @SimoneGiertz Thank you!"},{"Created at: ":"Thu Jul 26 00:51:25 +0000 2018","Tweets: ":"RT @iamdevloper: Every now and then, ping one of your competitor's websites using an IE6 VM. Keep them on their toes."},{"Created at: ":"Mon Jul 23 11:47:20 +0000 2018","Tweets: ":"Hanging out at the maker space. Someone made cool wood cars. @ ChattLab Makerspace https://t.co/svyRs9Wxug"},{"Created at: ":"Mon Jul 23 04:58:42 +0000 2018","Tweets: ":"@sassyscoopics Haha, that sounds like a mix of bird brain and animaniacs. Love it."},{"Created at: ":"Mon Jul 23 04:56:17 +0000 2018","Tweets: ":"@GarrafaScoop @LandScooper @sassyscoopics @HeyScoops Thank you, that's a great suggestion!"},{"Created at: ":"Mon Jul 23 04:54:59 +0000 2018","Tweets: ":"@LandScooper @sassyscoopics @HeyScoops I love it! Thank you for the suggestions!!"},{"Created at: ":"Mon Jul 23 04:52:43 +0000 2018","Tweets: ":"So I just discovered @SimoneGiertz and she's my new role model. I managed to binge watch all her YouTube episodes i… https://t.co/cMEO3C77B4"},{"Created at: ":"Fri Jul 20 19:04:05 +0000 2018","Tweets: ":"My kiddos want to start a YouTube channel with me. We need a name. We want to cover teaching kids to code and birds. @sassyscoopics help?"},{"Created at: ":"Fri Jul 20 01:54:50 +0000 2018","Tweets: ":"Looking forward to tomorrow. Friday can't come soon enough!"}]
+
+"================= LIRI FOUND THIS FOR YOU...==================\n              Song Name: 'DON/'T STOP BELIEVING'\n              Album Name: Bjud upp till dans\n              Artist Name: Shake\n              URL: https://open.spotify.com/album/5y0McIPJMWlPkAoUERN4gF\n"
+
+"================= LIRI FOUND THIS FOR YOU...==================\n              Song Name: 'DON'T STOP BELIEVING'\n              Album Name: Covers Part IV\n              Artist Name: Anthem Lights\n              URL: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM\n"
+
+"================= LIRI FOUND THIS FOR YOU...==================\n              Song Name: 'SMALL TOWN GIRL'\n              Album Name: Small Town Girl\n              Artist Name: Kellie Pickler\n              URL: https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n\n"
+
+"================= LIRI FOUND THIS FOR YOU...==================\n              Song Name: 'SMALL TOWN GIRL'\n              Album Name: Small Town Girl\n              Artist Name: Kellie Pickler\n              URL: https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n\n"
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'SMALL TOWN GIRL'
+              Album Name: Small Town Girl
+              Artist Name: Kellie Pickler
+              URL: https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'PARTY STARTED'
+              Album Name: M!ssundaztood
+              Artist Name: P!nk
+              URL: https://open.spotify.com/album/03pT16iWbhVKpDodI37D8b
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'SHAKE IT OFF'
+              Album Name: 1989
+              Artist Name: Taylor Swift
+              URL: https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'STEAL MY GIRL'
+              Album Name: FOUR (Deluxe)
+              Artist Name: One Direction
+              URL: https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'CLAP'
+              Album Name: SUCKER
+              Artist Name: Charli XCX
+              URL: https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU
+
+
+================= Extraordinary Liri found this ...==================
+              Song Name: 'KIKI DO YOU LOVE ME'
+              Album Name: Kiki, Do You Love Me?
+              Artist Name: Fritz Hagen
+              URL: https://open.spotify.com/album/6nglHYydPj6fYVdhQcYnLE
+
+              ================= Extraordinary Liri found this ...==================
+              Title: The Shawshank Redemption
+              Year: 1994
+              Rated: R
+              IMDB Rating: 9.3
+              Country: USA
+              Language: English
+              Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+              Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+              Tomato Rating: 91%
+              IMDb Rating: 9.3
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Title: The Matrix
+              Year: 1999
+              Rated: R
+              IMDB Rating: 8.7
+              Country: USA
+              Language: English
+              Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+              Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+              Tomato Rating: 87%
+              IMDb Rating: 8.7
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'AMNESIA'
+              Album Name: 5 Seconds Of Summer
+              Artist Name: 5 Seconds of Summer
+              URL: https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L
+
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'SHOOTING STAR'
+              Album Name: Straight Shooter
+              Artist Name: Bad Company
+              URL: https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Title: Blue Jasmine
+              Year: 2013
+              Rated: PG-13
+              IMDB Rating: 7.3
+              Country: USA
+              Language: English
+              Plot: A New York socialite, deeply troubled and in denial, arrives in San Francisco to impose upon her sister. She looks a million, but isn't bringing money, peace, or love...
+              Actors: Cate Blanchett, Joy Carlin, Richard Conti, Glen Caspillo
+              Tomato Rating: 91%
+              IMDb Rating: 7.3
+
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+Created at: Sun Sep 16 16:31:23 +0000 2018,Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA,Created at: Fri Sep 14 02:42:03 +0000 2018,Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…,Created at: Wed Sep 12 00:08:34 +0000 2018,Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig,Created at: Mon Sep 10 19:20:23 +0000 2018,Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS,Created at: Tue Sep 04 23:41:46 +0000 2018,Tweets: Just bought my kids some Nike shoes. 😁,Created at: Mon Sep 03 17:30:13 +0000 2018,Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…,Created at: Fri Aug 31 04:42:22 +0000 2018,Tweets: @githubstatus Yep having issues :(,Created at: Thu Aug 30 18:17:35 +0000 2018,Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2,Created at: Wed Aug 29 19:55:01 +0000 2018,Tweets: @byteconf Chattanooga, TN,Created at: Wed Aug 29 19:47:18 +0000 2018,Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+Created at: Sun Sep 16 16:31:23 +0000 2018
+Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+,Created at: Fri Sep 14 02:42:03 +0000 2018
+Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+,Created at: Wed Sep 12 00:08:34 +0000 2018
+Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+,Created at: Mon Sep 10 19:20:23 +0000 2018
+Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+,Created at: Tue Sep 04 23:41:46 +0000 2018
+Tweets: Just bought my kids some Nike shoes. 😁
+,Created at: Mon Sep 03 17:30:13 +0000 2018
+Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+,Created at: Fri Aug 31 04:42:22 +0000 2018
+Tweets: @githubstatus Yep having issues :(
+,Created at: Thu Aug 30 18:17:35 +0000 2018
+Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+,Created at: Wed Aug 29 19:55:01 +0000 2018
+Tweets: @byteconf Chattanooga, TN
+,Created at: Wed Aug 29 19:47:18 +0000 2018
+Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+
+
+              ================= Extraordinary Liri found this ...==================,Created at: Sun Sep 16 16:31:23 +0000 2018
+Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+,Created at: Fri Sep 14 02:42:03 +0000 2018
+Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+,Created at: Wed Sep 12 00:08:34 +0000 2018
+Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+,Created at: Mon Sep 10 19:20:23 +0000 2018
+Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+,Created at: Tue Sep 04 23:41:46 +0000 2018
+Tweets: Just bought my kids some Nike shoes. 😁
+,Created at: Mon Sep 03 17:30:13 +0000 2018
+Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+,Created at: Fri Aug 31 04:42:22 +0000 2018
+Tweets: @githubstatus Yep having issues :(
+,Created at: Thu Aug 30 18:17:35 +0000 2018
+Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+,Created at: Wed Aug 29 19:55:01 +0000 2018
+Tweets: @byteconf Chattanooga, TN
+,Created at: Wed Aug 29 19:47:18 +0000 2018
+Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+
+
+              ================= Extraordinary Liri found this ...==================,Created at: Sun Sep 16 16:31:23 +0000 2018
+Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+,Created at: Fri Sep 14 02:42:03 +0000 2018
+Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+,Created at: Wed Sep 12 00:08:34 +0000 2018
+Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+,Created at: Mon Sep 10 19:20:23 +0000 2018
+Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+,Created at: Tue Sep 04 23:41:46 +0000 2018
+Tweets: Just bought my kids some Nike shoes. 😁
+,Created at: Mon Sep 03 17:30:13 +0000 2018
+Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+,Created at: Fri Aug 31 04:42:22 +0000 2018
+Tweets: @githubstatus Yep having issues :(
+,Created at: Thu Aug 30 18:17:35 +0000 2018
+Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+,Created at: Wed Aug 29 19:55:01 +0000 2018
+Tweets: @byteconf Chattanooga, TN
+,Created at: Wed Aug 29 19:47:18 +0000 2018
+Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Created at: Sun Sep 16 16:31:23 +0000 2018
+
+              Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+
+              Created at: Fri Sep 14 02:42:03 +0000 2018
+
+              Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+
+              Created at: Wed Sep 12 00:08:34 +0000 2018
+
+              Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+
+              Created at: Mon Sep 10 19:20:23 +0000 2018
+
+              Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+
+              Created at: Tue Sep 04 23:41:46 +0000 2018
+
+              Tweets: Just bought my kids some Nike shoes. 😁
+
+              Created at: Mon Sep 03 17:30:13 +0000 2018
+
+              Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+
+              Created at: Fri Aug 31 04:42:22 +0000 2018
+
+              Tweets: @githubstatus Yep having issues :(
+
+              Created at: Thu Aug 30 18:17:35 +0000 2018
+
+              Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+
+              Created at: Wed Aug 29 19:55:01 +0000 2018
+
+              Tweets: @byteconf Chattanooga, TN
+
+              Created at: Wed Aug 29 19:47:18 +0000 2018
+
+              Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Created at: Sun Sep 16 16:31:23 +0000 2018
+              Tweets: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+
+              Created at: Fri Sep 14 02:42:03 +0000 2018
+              Tweets: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+
+              Created at: Wed Sep 12 00:08:34 +0000 2018
+              Tweets: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+
+              Created at: Mon Sep 10 19:20:23 +0000 2018
+              Tweets: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+
+              Created at: Tue Sep 04 23:41:46 +0000 2018
+              Tweets: Just bought my kids some Nike shoes. 😁
+
+              Created at: Mon Sep 03 17:30:13 +0000 2018
+              Tweets: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+
+              Created at: Fri Aug 31 04:42:22 +0000 2018
+              Tweets: @githubstatus Yep having issues :(
+
+              Created at: Thu Aug 30 18:17:35 +0000 2018
+              Tweets: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+
+              Created at: Wed Aug 29 19:55:01 +0000 2018
+              Tweets: @byteconf Chattanooga, TN
+
+              Created at: Wed Aug 29 19:47:18 +0000 2018
+              Tweets: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'WHAT'S MY AGE AGAIN'
+              Album Name: Enema Of The State
+              Artist Name: blink-182
+              URL: https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'WHAT'S MY AGE AGAIN'
+              Album Name: Enema Of The State
+              Artist Name: blink-182
+              URL: https://open.spotify.com/album/3ReTZiBrVtZaufbC1tCHfM
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'WHAT'S MY AGE AGAIN'
+              Album Name: Greatest Hits
+              Artist Name: blink-182
+              URL: https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'WHAT'S MY AGE AGAIN'
+              Album Name: Enema Of The State / Take Off Your Pants And Jacket / Blink-182
+              Artist Name: blink-182
+              URL: https://open.spotify.com/album/54f3fbCXygBH3eBx51FU6I
+
+
+
+              ================= Extraordinary Liri found this ...==================
+              Song Name: 'WHAT'S MY AGE AGAIN'
+              Album Name: Lullaby Renditions of Blink-182
+              Artist Name: Rockabye Baby!
+              URL: https://open.spotify.com/album/5zWn6wnfdOojDAhg6n9HNn
+
+
+
+              Song Name: 'DISCO'
+              Album Name: Pray For The Wicked
+              Artist Name: Panic! At The Disco
+              URL: https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge
+
+
+
+
+
+              ================= Extraordinary Liri found this ...==================
+
+spotify-this-song,"I Want it That Way"
+
+
+spotify-this-song,"I Want it That Way"
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'FANDANGO'
+              Album Name: Fandango [Expanded & Remastered]
+              Artist Name: ZZ Top
+              URL: https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO
+
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'NEWSIES'
+              Album Name: Newsies (Original Broadway Cast Recording)
+              Artist Name: Various Artists
+              URL: https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS
+
+================= LIRI FOUND THIS FOR YOU...==================
+              Song Name: 'A SONG FOR MAMA'
+              Album Name: Evolution
+              Artist Name: Boyz II Men
+              URL: https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx
+
+
+              ================= Extraordinary Liri found this ...==================------------Data of Near Earth Objects-----------------
+              Name: 16816 (1997 UF9)
+
+
+              ================= Extraordinary Liri found this ...==================
+------------Data of Near Earth Objects-----------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+
+
+              ================= Extraordinary Liri found this ...==================
+              ------------Data of Near Earth Objects-----------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+
+
+              ================= Extraordinary Liri found this ...==================
+              -----------------  Data of Near Earth Objects  -------------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+              Diamater min (Km): 1.5295193534
+              Diamater max (Km): 3.4201092472
+
+
+              ================= Extraordinary Liri found this ...==================
+              -----------------    Data of Near Earth Objects    -------------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+              Diamater min (Km): 1.5295193534
+              Diamater max (Km): 3.4201092472
+
+
+              ================= Extraordinary Liri found this ...==================
+              -----------------    Data of Near Earth Objects    ------------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+              Diamater min (Km): 1.5295193534
+              Diamater max (Km): 3.4201092472
+
+
+              ================= Extraordinary Liri found this ...==================
+              Created at: Sun Sep 16 16:31:23 +0000 2018
+              Tweet: #HurricaneFlorence survivors  
+
+Get the map out to anyone that needs it: https://t.co/Bccc1Zamun 
+Has up to date sh… https://t.co/bpTgnvagyA
+
+              Created at: Fri Sep 14 02:42:03 +0000 2018
+              Tweet: RT @AliStandish: The line of folks waiting to pick up foster dogs for the weekend so coastal shelters can evacuate here before #HurricanceF…
+
+              Created at: Wed Sep 12 00:08:34 +0000 2018
+              Tweet: RT @Lyndsey360: Thanks for the article, @BuzzFeed! ☺️ https://t.co/y1I5IYw0ig
+
+              Created at: Mon Sep 10 19:20:23 +0000 2018
+              Tweet: My friend telling me she would like her hardboiled egg now. She always gets one when I make them. .
+.
+.
+.
+.
+#doggys… https://t.co/Pxju7rNceS
+
+              Created at: Tue Sep 04 23:41:46 +0000 2018
+              Tweet: Just bought my kids some Nike shoes. 😁
+
+              Created at: Mon Sep 03 17:30:13 +0000 2018
+              Tweet: RT @tarah: If you have been to the Brazilian National Museum and have pictures of fossils (especially with their labels and provenance) ple…
+
+              Created at: Fri Aug 31 04:42:22 +0000 2018
+              Tweet: @githubstatus Yep having issues :(
+
+              Created at: Thu Aug 30 18:17:35 +0000 2018
+              Tweet: Mx. For those of us who don't want to be addressed by our gender. https://t.co/hn1CPUrCo2
+
+              Created at: Wed Aug 29 19:55:01 +0000 2018
+              Tweet: @byteconf Chattanooga, TN
+
+              Created at: Wed Aug 29 19:47:18 +0000 2018
+              Tweet: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4

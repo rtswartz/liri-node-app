@@ -1,4 +1,3 @@
-
 //get your API creds by following these steps:
 //Step One: https://apps.twitter.com/app/new
 //Step Two: use http:// for your urls
