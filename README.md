@@ -16,4 +16,4 @@ Follow the format presented in these queries
 -node liri.js do-what-it-says 
 ```
 
-![alt text](~/Desktop/NWBC/HW/liri-node-app/Img1.png "Images")
+![alt text](/Desktop/NWBC/HW/liri-node-app/Img1.png "Images")
