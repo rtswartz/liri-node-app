@@ -803,3 +803,12 @@ Has up to date sh… https://t.co/bpTgnvagyA
               IMDb Rating: 8.1
 
 
+
+              ================= Extraordinary Liri found this ...==================
+              -----------------    Data of Near Earth Objects    ------------------
+              Name: 16816 (1997 UF9)
+              ID: 2016816
+              Hazardous: false
+              Diamater min (Km): 1.6016033798
+              Diamater max (Km): 3.5812940302
+

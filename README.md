@@ -17,3 +17,4 @@ Follow the format presented in these queries
 ```
 
 ![alt text](https://github.com/rtswartz/liri-node-app/blob/master/Img1.PNG)
+![alt text](https://github.com/rtswartz/liri-node-app/blob/master/Img2.PNG)
