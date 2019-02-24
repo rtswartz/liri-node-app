@@ -789,3 +789,17 @@ Has up to date sh… https://t.co/bpTgnvagyA
 
               Created at: Wed Aug 29 19:47:18 +0000 2018
               Tweet: Wow, then to add to it, their domain ends with .global, but they forgot about their global customers. https://t.co/I2HIJueuC4
+
+              ================= Extraordinary Liri found this ...==================
+              Title: The Princess Bride
+              Year: 1987
+              Rated: PG
+              IMDB Rating: 8.1
+              Country: USA
+              Language: English
+              Plot: While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+              Actors: Cary Elwes, Mandy Patinkin, Chris Sarandon, Christopher Guest
+              Tomato Rating: 97%
+              IMDb Rating: 8.1
+
+
